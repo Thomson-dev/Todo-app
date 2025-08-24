@@ -1,6 +1,8 @@
-# library_management
+# flutter_app
 
 A new Flutter project.
+
+![Alt text](images/logo.png)
 
 ## Getting Started
 
